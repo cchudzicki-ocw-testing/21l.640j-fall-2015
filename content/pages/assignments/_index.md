@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course, associated
+  files, and details on the final project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -47,8 +49,7 @@ Ibañez Martín
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 2 (PDF)  
-]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses2)
+{{% resource_link "930b4c9f-4215-a880-441f-64ba3b7c70fa" "Homework Assignment 2 (PDF)   " %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Capítulo 3 en _Ghosts of Spain_

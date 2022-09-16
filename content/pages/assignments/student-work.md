@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of student work for the weekly homework
+  assignments and final project of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

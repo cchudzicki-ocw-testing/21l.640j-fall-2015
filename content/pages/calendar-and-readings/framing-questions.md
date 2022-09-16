@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides framing questions for some of the readings and
+  films used during the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
